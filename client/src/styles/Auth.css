@@ -1,0 +1,15 @@
+.auth-body {
+    background: linear-gradient(rgb(72, 147, 194), rgb(98, 112, 100));
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.border {
+    border: 3px solid black;
+    background-color: bisque;
+}
